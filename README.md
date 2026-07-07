@@ -1,15 +1,3 @@
-Counter Function
+task 
 
-Create a function createCounter() that returns another function.
-
-Every time the returned function is called, it should increase the count by 1.
-The count variable should not be directly accessible.
-
-Expected Output:
-
-const counter = createCounter();
-
-console.log(counter()); // 1
-console.log(counter()); // 2
-console.log(counter()); // 3
-
+https://app.notion.com/p/task-batch-6-396e5b32676080839efbe65ad0146da1?source=copy_link
