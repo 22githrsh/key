@@ -1,0 +1,140 @@
+// let player = document.querySelector(".player")
+// let target = document.querySelector(".target")
+// let x = 0
+// let y = 0
+// let body = document.body
+
+
+
+
+
+// document.addEventListener("keydown",(e)=>{
+//     if(e.key === "w") y-=10
+//     if(e.key === "a") x-=10
+//     if(e.key === "s") y+=10
+//     if(e.key === "d") x+=10
+    
+
+//     player.style.top = y + "px"
+//     player.style.left = x + "px"
+    
+
+//     let playerrect = player.getBoundingClientRect()
+//     let targetrect = target.getBoundingClientRect()
+
+//     if(playerrect.left < targetrect.right &&
+//        playerrect.right > targetrect.left &&
+//        playerrect.top < targetrect.bottom &&
+//        playerrect.bottom > targetrect.top
+//     ){
+
+//     }
+
+//     else{
+
+//     }
+    
+
+// =
+
+ 
+
+
+// })
+
+
+
+
+
+
+
+
+
+
+
+
+
+//data typess kya hote hai ???
+
+
+// primitive -> number, int, float, double, char, string, null,nan, boolean
+// non-primitive
+
+// primitive data type
+
+// // int = integers -> 12345678910
+// // float = decimals -> 1.1
+// // double = 1.22234
+// // strings = "harshcodr"
+// // Number = 1234567890
+// // char = a
+// //null 
+// // nan = npt a mumber 
+
+// non primitive data type kya hota hai ?
+
+// () {} []
+
+
+// operators
+
+
+//arthemtic operator 
+
+// +
+// -
+// /
+// *
+ 
+
+// logical opreators
+
+// &&
+// ||
+// !
+
+
+// comparision operators 
+
+// == 
+// === -> data types check krti hai !
+// <=
+//=>
+
+
+// asignment operator
+
+//+= 
+//-=
+
+
+//loops 
+
+// for 
+// for in 
+// forEach
+
+
+// Variables & Conditions
+// Print your name on the screen.
+// Add two numbers and print the result.
+// Find the larger of two numbers.
+// Check whether a number is even or odd.
+// Check whether a number is positive, negative, or zero.
+// Find the largest among three numbers.
+// Check whether a person is eligible to vote (age ≥ 18).
+// Check whether a year is a leap year.
+// Loops
+// Print numbers from 1 to 10.
+// Print numbers from 10 to 1.
+// Print all even numbers from 1 to 100.
+// Print the multiplication table of a given number.
+// Find the sum of numbers from 1 to N.
+// Find the factorial of a number.
+// Count how many digits are in a number.
+// Reverse a number.
+
+
+// functions 
+
+
