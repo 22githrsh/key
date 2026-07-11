@@ -17,3 +17,5 @@ notes
 
 https://app.notion.com/p/links-38fe5b326760804bb060e6366908e862?source=copy_link
 
+https://app.notion.com/p/39ae5b32676080faa567c7e0e7e89297?source=copy_link ( notes together )
+
