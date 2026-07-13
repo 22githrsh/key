@@ -19,3 +19,6 @@ https://app.notion.com/p/links-38fe5b326760804bb060e6366908e862?source=copy_link
 
 https://app.notion.com/p/39ae5b32676080faa567c7e0e7e89297?source=copy_link ( notes together )
 
+Ai fullstack roadmap 
+
+https://docs.google.com/document/d/1IoDSlcZhWWGtTfcd5DDHWaDWPPO25z07wBb7ozoVKZM/edit?usp=sharing
