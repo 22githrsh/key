@@ -26,3 +26,8 @@ https://docs.google.com/document/d/1IoDSlcZhWWGtTfcd5DDHWaDWPPO25z07wBb7ozoVKZM/
 BATCH 2 TASK OOPS
 
 https://app.notion.com/p/39de5b32676080fcb333ebf4b155b948?source=copy_link
+
+OOPS NOTES
+
+https://app.notion.com/p/OOPS-NOTES-39de5b32676080ecaa74d1270e01a15e?source=copy_link
+
