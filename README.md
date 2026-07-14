@@ -22,3 +22,7 @@ https://app.notion.com/p/39ae5b32676080faa567c7e0e7e89297?source=copy_link ( not
 Ai fullstack roadmap 
 
 https://docs.google.com/document/d/1IoDSlcZhWWGtTfcd5DDHWaDWPPO25z07wBb7ozoVKZM/edit?usp=sharing
+
+BATCH 2 TASK OOPS
+
+https://app.notion.com/p/39de5b32676080fcb333ebf4b155b948?source=copy_link
