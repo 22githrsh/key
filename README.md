@@ -11,3 +11,5 @@ os.uptime()
 os.userInfo()
 os.tmpdir()
 os.networkInterfaces()
+
+https://app.notion.com/p/3a5e5b3267608037bdaecd0d1612ac15?source=copy_link
